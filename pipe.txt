@@ -1,2 +1,0 @@
-docker build -f Dockerfile -t test .
-docker run --name test-2 -p 5000:5000 -d test
